@@ -1,0 +1,28 @@
+{
+  "name": "diagnose-healthy",
+  "version": "0.1.1",
+  "description": "A simple application to diagnose diseases using nodejs",
+  "main": "diagnose-healthy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oliviachandra/diagnose-healthy.git"
+  },
+  "keywords": [
+    "diagnose",
+    "npm",
+    "diseases"
+  ],
+  "author": "olive236",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oliviachandra/diagnose-healthy/issues"
+  },
+  "homepage": "https://github.com/oliviachandra/diagnose-healthy#readme",
+  "dependencies": {
+    "only-learning": "^1.0.4",
+    "readline-sync": "^1.4.10"
+  }
+}
